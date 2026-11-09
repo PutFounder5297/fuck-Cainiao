@@ -60,9 +60,9 @@ JDK 17 在中文路径下读取测试启动参数时会出现类加载错误。�
 
 ## 下载
 
-在 [GitHub Releases](https://github.com/reova/FuckCainiao/releases/latest) 下载 APK。
+在 [GitHub Releases](https://github.com/PutFounder5297/fuck-Cainiao/releases/latest) 下载 APK。
 
-安装包文件名：`FuckCainiao-0.2.6-cainiao-8.11.1023.apk`。
+安装包文件名：`FuckCainiao-0.2.7-cainiao-8.11.1105.apk`。
 
 ## 更新记录
 
